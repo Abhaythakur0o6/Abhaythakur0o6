@@ -88,13 +88,13 @@ Focused on mastering Data Structures & Algorithms while building scalable and us
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhaythakur0o6&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaythakur0o6&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true"/>
 
-</div>
+</div> -->
 
 <br>
 
