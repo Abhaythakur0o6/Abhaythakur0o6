@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Abhay06x_/" target="_blank">
+<!-- <a href="https://leetcode.com/u/Abhay06x_/" target="_blank">
   <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+</a> -->
 
 <a href="https://github.com/Abhaythakur0o6" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
