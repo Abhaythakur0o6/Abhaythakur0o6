@@ -80,27 +80,33 @@ Focused on mastering Data Structures & Algorithms while building scalable and us
 
 </div>
 
-</br>
+<br>
 
 <div align="center">
 
 ## 📈 Statistics
 
-</div>
-
-<!-- <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhaythakur0o6&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaythakur0o6&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true"/>
-
-</div> -->
-
 <br>
 
-<div align="center">
+<!-- GitHub Statistics -->
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhaythakur0o6&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true"/>
+<a href="https://github.com/Abhaythakur0o6">
+  <img
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Abhaythakur0o6&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=333333&hide_border=false"
+  />
+</a>
+
+<!-- GitHub Languages -->
+
+<a href="https://github.com/Abhaythakur0o6">
+  <img
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abhaythakur0o6&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=333333&hide_border=false"
+  />
+</a>
+
+<br>
 
 </div>
 
